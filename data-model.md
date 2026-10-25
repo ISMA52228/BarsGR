@@ -9,7 +9,6 @@
 | User | User |
 
 
-docs/api-contract.md
 ## ER-модель
 
 ```mermaid
