@@ -7,8 +7,6 @@
 | Ticket | CreditRiskRequest |
 | Site | RiskType |
 | User | User |
-# Шаг 8. Создай `api-contract.md`
-
 Следующий файл:
 
 ```text
