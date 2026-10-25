@@ -7,9 +7,8 @@
 | Ticket | CreditRiskRequest |
 | Site | RiskType |
 | User | User |
-Следующий файл:
 
-```text
+
 docs/api-contract.md
 ## ER-модель
 
