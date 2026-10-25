@@ -40,3 +40,12 @@ erDiagram
         int createdByUserId FK
         int assigneeUserId FK
     }
+
+---
+
+# Шаг 8. Создай `api-contract.md`
+
+Следующий файл:
+
+```text
+docs/api-contract.md
