@@ -8,7 +8,6 @@
 | Site | RiskType |
 | User | User |
 
-
 ## ER-модель
 
 ```mermaid
@@ -41,7 +40,3 @@ erDiagram
         int createdByUserId FK
         int assigneeUserId FK
     }
-
----
-
-
