@@ -40,3 +40,11 @@ erDiagram
         int createdByUserId FK
         int assigneeUserId FK
     }
+
+```text
+docs/api-contract.md
+GET    /api/credit-risk-requests
+GET    /api/credit-risk-requests/{id}
+POST   /api/credit-risk-requests
+PATCH  /api/credit-risk-requests/{id}/assignee
+PATCH  /api/credit-risk-requests/{id}/status
