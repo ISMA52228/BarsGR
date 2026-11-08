@@ -17,3 +17,15 @@
 ## Стек
 
 Vue 3 + ASP.NET Core + PostgreSQL
+
+## Запуск клиентской части (ЛР3)
+
+Требуется Node.js LTS.
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Открыть адрес Vite: http://localhost:5173
