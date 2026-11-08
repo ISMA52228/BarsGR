@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node.js / Vue / Vite
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.DS_Store
